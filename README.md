@@ -19,23 +19,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |
 | ------- |
