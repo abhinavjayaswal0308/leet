@@ -1,7 +1,7 @@
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
- *     int val;
+ *     int val;0
  *     TreeNode *left;
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
@@ -12,16 +12,23 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        TreeNode* node= root;
-        
-
-        if(root==NULL) return 0;
-
-        int lh=maxDepth(root->left);
-        int rh=maxDepth(root->right);
-
-
-        return 1+ max(lh,rh); 
+       vector<vector<int>> ans;
+        if(root == NULL) return 0;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()) {
+            int size = q.size();
+            vector<int> level;
+            for(int i = 0; i<size; i++) {
+                TreeNode *node = q.front();
+                q.pop();
+                if(node->left != NULL) q.push(node->left);
+                if(node->right != NULL) q.push(node->right);
+                level.push_back(node->val);
+            }
+            ans.push_back(level);
+        }
+        return ans.size();
 
 
 
