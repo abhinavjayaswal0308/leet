@@ -88,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
