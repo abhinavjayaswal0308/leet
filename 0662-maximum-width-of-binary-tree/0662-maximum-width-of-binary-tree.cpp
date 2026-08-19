@@ -25,8 +25,6 @@ public:
 
                 q.pop();
 
-                pos = pos - first;
-
                 last = pos;
 
                 if (temp->left != NULL)
@@ -36,7 +34,7 @@ public:
                     q.push({temp->right, 2 * pos + 2});
             }
 
-            answer = max(answer, (int)(last + 1));
+            answer = max(answer, (int)(last - first + 1));
         }
 
         return answer;
