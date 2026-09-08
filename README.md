@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0048-rotate-image) |
 | [0503-next-greater-element-ii](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0503-next-greater-element-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
