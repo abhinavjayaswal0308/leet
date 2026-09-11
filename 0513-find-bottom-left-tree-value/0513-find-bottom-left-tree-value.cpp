@@ -39,8 +39,8 @@ public:
 
     int n=ans.size();
 
-    vector<int>v=ans[n-1];
+    
 
-    return v[0];
+    return ans[n-1][0];
     }
 };
