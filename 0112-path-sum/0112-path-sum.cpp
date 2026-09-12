@@ -5,12 +5,31 @@ public:
         if (root == NULL)
             return false;
 
-        if (root->left == NULL && root->right == NULL) {
-            return targetSum == root->val;
+        queue<pair<TreeNode*, int>> q;
+
+        q.push({root, root->val});
+
+        while (!q.empty()) {
+
+            TreeNode* node = q.front().first;
+            int sum = q.front().second;
+
+            q.pop();
+
+            if (node->left == NULL && node->right == NULL) {
+                if (sum == targetSum)
+                    return true;
+            }
+
+            if (node->left != NULL) {
+                q.push({node->left, sum + node->left->val});
+            }
+
+            if (node->right != NULL) {
+                q.push({node->right, sum + node->right->val});
+            }
         }
 
-        targetSum-= root->val;
-
-        return hasPathSum(root->left, targetSum) || hasPathSum(root->right, targetSum);
+        return false;
     }
 };
