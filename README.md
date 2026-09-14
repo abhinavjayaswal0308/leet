@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0938-range-sum-of-bst) |
 ## Divide and Conquer
 |  |
