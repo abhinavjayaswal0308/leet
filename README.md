@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1652-defuse-the-bomb](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/0654-maximum-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/abhinavjayaswal0308/https-github.com-abhinavjayaswal0308-leetcode/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
