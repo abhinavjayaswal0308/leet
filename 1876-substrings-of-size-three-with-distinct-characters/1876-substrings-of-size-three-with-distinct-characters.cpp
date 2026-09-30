@@ -2,11 +2,11 @@ class Solution {
 public:
     bool f(string s){
 
-        unordered_map<char,int>mpp;
+        unordered_set<char>set;
         for(int i=0;i<s.size();i++){
-            mpp[s[i]]++;
+            set.insert(s[i]);
         }
-        return mpp.size()==s.size();
+        return set.size()==s.size();
 
     }
     int countGoodSubstrings(string s) {
